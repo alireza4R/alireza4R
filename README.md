@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alireza Rostami</h1>
-<h3 align="center">A passionate computer science student with a strong interest in Artificial Intelligence and Security</h3>
+<h3 align="center">A passionate computer science student.</h3>
 
 - 📫 How to reach me **alireza.ar.83.15@gmail.com**
 
