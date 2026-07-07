@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alireza Rostami</h1>
 <h3 align="center">A passionate computer science student with a strong interest in Artificial Intelligence and Security</h3>
 
-- 🌱 I’m currently learning **network+, security, linux**
-
 - 📫 How to reach me **alireza.ar.83.15@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
