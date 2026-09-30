@@ -16,5 +16,7 @@
 
 ---
 
-![Pacman](https://raw.githubusercontent.com/alireza4R/alireza4R/output/pacman-contribution-graph-dark.svg)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=alireza4R&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact" />
+</p>
 
